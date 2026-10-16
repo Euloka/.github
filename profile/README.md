@@ -36,5 +36,5 @@ Want to list an experience, partner with us or contribute? Open an issue or
 reach out to the team.
 
 <div align="center">
-<sub>Made in Bhutan 🇧🇹</sub>
+  <sub>Made in Bhutan 🇧🇹</sub>
 </div>
